@@ -1,0 +1,14 @@
+{"  intents":[
+    {
+        "tag": "saludo",
+        "patterns": ["hola","buenos días","buenas tardes", "buenas","qué tal", "cómo estás", "saludo"],
+        "responses": ["Hola!","Buenos días", "¿Cómo estás?"]
+    },
+    {
+        "tag": "nombre",
+        "patterns": ["cómo es tu nombre","cómo te llamas","cuál es tu nombre"],
+        "responses": ["Somos Sapian SAS","Nuestra empresa se llama Sapian"]
+    }
+]
+
+}
